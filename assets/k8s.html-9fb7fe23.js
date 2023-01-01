@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-06607cf4","path":"/cloud/k8s.html","title":"K8S文档","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"K8S文档","description":"K8S详解"},"headers":[],"git":{},"filePathRelative":"cloud/k8s.md"}');export{t as data};
