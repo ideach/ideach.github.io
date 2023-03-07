@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2825b4ae","path":"/cloud/openstack.html","title":"OpenStack文档","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"OpenStack文档","description":"OpenStack详解"},"headers":[],"git":{},"filePathRelative":"cloud/openstack.md"}');export{t as data};
